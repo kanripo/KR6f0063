@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:16.068527
+#+DATE: 2015-08-30 20:02:17.407444
 #+TITLE: 佛說大乘無量壽莊嚴經
 #+PROPERTY: CBETA_ID T12n0363
 #+PROPERTY: ID KR6f0063
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 363
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0063_T_003-0323c> ¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《佛說大乘無量壽莊嚴經》卷下¶
+《佛說大乘無量壽莊嚴經》卷下¶
 ¶
 西天譯經三藏朝散大夫試光祿卿¶
 明教大師臣法賢奉　詔譯¶
