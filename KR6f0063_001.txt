@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:16.013863
+#+DATE: 2015-08-30 20:02:17.653849
 #+TITLE: 佛說大乘無量壽莊嚴經
 #+PROPERTY: CBETA_ID T12n0363
 #+PROPERTY: ID KR6f0063
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 363
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0063_T_001-0318a> 
 #+PROPERTY: JUAN 1
 ¶
-No.363[Nos.360-362,364]¶
-
- 《佛說大乘無量壽莊嚴經》卷上¶
+No. 363 [Nos. 360-362, 364]¶
+《佛說大乘無量壽莊嚴經》卷上¶
 ¶
 西天譯經三藏朝散大夫試光祿卿¶
 明教大師臣法賢奉　詔譯¶
@@ -27,7 +26,7 @@ No.363[Nos.360-362,364]¶
 曩、尊者憍梵波提、尊者優樓頻螺迦葉、尊者¶
 那提迦葉、尊者舍利子、尊者大目乾連、尊¶
 者摩訶迦旃延、尊者摩訶俱絺羅、尊者劫賓¶
-那、尊者摩訶𠟃那、尊者彌多羅尼子、尊者¶
+那、尊者摩訶[利-禾+尊]那、尊者彌多羅尼子、尊者¶
 阿那律、尊者喜、尊者緊鼻哩拏、尊者須菩¶
 提、尊者哩嚩帝、尊者佉襧囉嚩儞枳曩、尊¶
 者摩賀囉倪、尊者波囉野尼枳曩、尊者嚩拘¶
